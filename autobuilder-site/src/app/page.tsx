@@ -11,27 +11,27 @@ const demoShowcases = [
     title: "Dashboards",
     description: "Exec-grade boards with drill downs, anomaly pings, and AI summaries.",
     images: [
-      "/images/dashboards/dashboard-1-new.png",
-      "/images/dashboards/dashboard-2-new.png",
-      "/images/dashboards/dashboard-3-new.png",
+      "/images/dashboards/dashboard-1.png",
+      "/images/dashboards/dashboard-2.png",
+      "/images/dashboards/dashboard-3.png",
     ],
   },
   {
     title: "Mobile Native Applications",
     description: "Secure mobile stacks with offline sync and biometric auth.",
     images: [
-      "/images/mobile/mobile-1.png",
-      "/images/mobile/mobile-2.png",
-      "/images/mobile/mobile-3.png",
+      "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=1600&q=60",
+      "https://images.unsplash.com/photo-1448932223592-d1fc686e76ea?auto=format&fit=crop&w=1600&q=60",
+      "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1600&q=60",
     ],
   },
   {
     title: "Automation - n8n",
     description: "Agents orchestrating CRM, ERP, and communications with guardrails.",
     images: [
-      "/images/automation/automation-1.png",
-      "/images/automation/automation-2.png",
-      "/images/automation/automation-3.png",
+      "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1600&q=60",
+      "https://images.unsplash.com/photo-1523475472560-d2df97ec485c?auto=format&fit=crop&w=1600&q=60",
+      "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1600&q=60",
     ],
   },
 ];
