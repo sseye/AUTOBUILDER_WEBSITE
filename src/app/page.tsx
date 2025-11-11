@@ -11,9 +11,9 @@ const demoShowcases = [
     title: "Dashboards",
     description: "Exec-grade boards with drill downs, anomaly pings, and AI summaries.",
     images: [
-      "/images/dashboards/dashboard-1.png",
-      "/images/dashboards/dashboard-2.png",
-      "/images/dashboards/dashboard-3.png",
+      "/images/dashboards/dashboard-1.jpg",
+      "/images/dashboards/dashboard-2.jpg",
+      "/images/dashboards/dashboard-3.jpg",
     ],
   },
   {
