@@ -11,27 +11,27 @@ const demoShowcases = [
     title: "Dashboards",
     description: "Exec-grade boards with drill downs, anomaly pings, and AI summaries.",
     images: [
-      "/images/dashboards/dashboard-1-new.webp?v=3",
-      "/images/dashboards/dashboard-2-new.webp?v=3",
-      "/images/dashboards/dashboard-3-new.webp?v=3",
+      "/images/dashboards/dash-business.webp",
+      "/images/dashboards/dash-analytics-dark.webp",
+      "/images/dashboards/dash-analytics-light.webp",
     ],
   },
   {
     title: "Mobile Native Applications",
     description: "Secure mobile stacks with offline sync and biometric auth.",
     images: [
-      "/images/mobile/mobile-1.webp?v=3",
-      "/images/mobile/mobile-2.webp?v=3",
-      "/images/mobile/mobile-3.webp?v=3",
+      "/images/mobile/app-profile.webp",
+      "/images/mobile/app-weather.webp",
+      "/images/mobile/app-tasks.webp",
     ],
   },
   {
     title: "Automation - n8n",
     description: "Agents orchestrating CRM, ERP, and communications with guardrails.",
     images: [
-      "/images/automation/automation-1.webp?v=3",
-      "/images/automation/automation-2.webp?v=3",
-      "/images/automation/automation-3.webp?v=3",
+      "/images/automation/workflow-search.webp",
+      "/images/automation/workflow-leads.webp",
+      "/images/automation/workflow-notify.webp",
     ],
   },
 ];
