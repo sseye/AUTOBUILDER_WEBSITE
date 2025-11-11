@@ -11,9 +11,15 @@ const demoShowcases = [
     title: "Dashboards",
     description: "Exec-grade boards with drill downs, anomaly pings, and AI summaries.",
     images: [
-      "/images/dashboards/dashboard-1.png",
       "/images/dashboards/dashboard-2.png",
       "/images/dashboards/dashboard-3.png",
+      "/images/dashboards/ChatGPT Image Nov 11, 2025, 06_51_13 PM.png",
+      "/images/dashboards/ChatGPT Image Nov 11, 2025, 07_00_56 PM.png",
+      "/images/dashboards/ChatGPT Image Nov 11, 2025, 07_03_20 PM.png",
+      "/images/dashboards/ChatGPT Image Nov 11, 2025, 12_06_41 PM.png",
+      "/images/dashboards/Screenshot 2025-11-11 195832.png",
+      "/images/dashboards/Screenshot 2025-11-11 195846.png",
+      "/images/dashboards/Screenshot 2025-11-11 195900.png",
     ],
   },
   {
