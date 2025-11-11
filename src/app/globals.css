@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light dark;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  @apply bg-black text-white antialiased;
+}
+
+.dark body {
+  @apply bg-black text-white;
+}
+
+.marquee-wrapper {
+  width: 100vw;
+  overflow: hidden;
+  margin-left: calc(50% - 50vw);
+}
+
+.marquee-track {
+  display: flex;
+  width: max-content;
+  animation: marquee 18s linear infinite;
+  will-change: transform;
+}
+
+.marquee-segment {
+  flex-shrink: 0;
+  white-space: nowrap;
+  padding-right: 0;
+}
+
+@keyframes marquee {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
